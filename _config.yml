@@ -2,9 +2,9 @@ domain: example.com
 url: https://example.com
 baseurl: "/wind"
 
-title: Wind
-email: wind@example.com
-author: Wind Sample
+title: Bad Dreams
+email: mhead83@gmail.com
+author: Bad Dreamer
 
 lang: en
 
@@ -16,6 +16,6 @@ color: "#13ccf9"
 #   shortname: example-com
 #
 rrss:
-  email: "example@example.cl"
-  telegram: "https://t.me/"
+  email: "mhead83@gmail.com"
+  instagram: "@whereismymatt"
   discord: "https://discord.com/"

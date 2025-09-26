@@ -14,7 +14,7 @@
 
 </div>
 
-# Wind: A Minimalistic, Simple, and Beautiful Blogging Theme
+# Bad Dreams
 
 If you like it please think on supporting my job:
 
